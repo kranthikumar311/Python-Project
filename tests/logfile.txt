@@ -1,0 +1,152 @@
+2020-09-30 02:47:38,032 : INFO : test_e2e : iphone X
+2020-09-30 02:47:38,179 : INFO : test_e2e : Samsung Note 8
+2020-09-30 02:47:38,199 : INFO : test_e2e : Nokia Edge
+2020-09-30 02:47:38,220 : INFO : test_e2e : Blackberry
+2020-09-30 02:47:45,436 : INFO : test_e2e : --Submitting the Form--
+2020-09-30 02:47:45,498 : INFO : test_e2e : --Success Message--: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-30 02:48:13,945 : INFO : test_formSubmission : FIRSTNAME :Karthik
+2020-09-30 02:48:13,945 : INFO : test_formSubmission : EMAIL :kk@gmail.com
+2020-09-30 02:48:15,934 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 02:48:16,374 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 02:48:16,374 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 02:48:16,376 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 02:48:16,376 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 02:48:17,113 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 02:48:17,113 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 11:57:27,044 : INFO : test_e2e : iphone X
+2020-09-30 11:57:27,109 : INFO : test_e2e : Samsung Note 8
+2020-09-30 11:57:27,136 : INFO : test_e2e : Nokia Edge
+2020-09-30 11:57:27,162 : INFO : test_e2e : Blackberry
+2020-09-30 11:57:36,094 : INFO : test_e2e : --Submitting the Form--
+2020-09-30 11:57:36,114 : INFO : test_e2e : --Success Message--: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-30 11:58:07,625 : INFO : test_formSubmission : FIRSTNAME :Karthik
+2020-09-30 11:58:07,625 : INFO : test_formSubmission : EMAIL :kk@gmail.com
+2020-09-30 11:58:10,499 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 11:58:11,405 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 11:58:11,405 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 11:58:11,406 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 11:58:11,406 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 11:58:12,246 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 11:58:12,246 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:20:29,154 : INFO : test_e2e : iphone X
+2020-09-30 12:20:29,350 : INFO : test_e2e : Samsung Note 8
+2020-09-30 12:20:29,389 : INFO : test_e2e : Nokia Edge
+2020-09-30 12:20:29,414 : INFO : test_e2e : Blackberry
+2020-09-30 12:20:37,237 : INFO : test_e2e : --Submitting the Form--
+2020-09-30 12:20:37,334 : INFO : test_e2e : --Success Message--: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-30 12:20:54,156 : INFO : test_formSubmission : FIRSTNAME :Karthik
+2020-09-30 12:20:54,156 : INFO : test_formSubmission : EMAIL :kk@gmail.com
+2020-09-30 12:20:55,002 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:20:55,491 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 12:20:55,491 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 12:20:55,491 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 12:20:55,491 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 12:20:56,112 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:20:56,112 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:22:32,595 : INFO : test_e2e : iphone X
+2020-09-30 12:22:32,819 : INFO : test_e2e : Samsung Note 8
+2020-09-30 12:22:32,893 : INFO : test_e2e : Nokia Edge
+2020-09-30 12:22:32,916 : INFO : test_e2e : Blackberry
+2020-09-30 12:22:39,723 : INFO : test_e2e : --Submitting the Form--
+2020-09-30 12:22:39,781 : INFO : test_e2e : --Success Message--: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-30 12:22:53,089 : INFO : test_formSubmission : FIRSTNAME :Karthik
+2020-09-30 12:22:53,089 : INFO : test_formSubmission : EMAIL :kk@gmail.com
+2020-09-30 12:22:53,838 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:22:54,165 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 12:22:54,165 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 12:22:54,165 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 12:22:54,165 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 12:22:54,858 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:22:54,858 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:27:05,851 : INFO : test_e2e : iphone X
+2020-09-30 12:27:06,038 : INFO : test_e2e : Samsung Note 8
+2020-09-30 12:27:06,053 : INFO : test_e2e : Nokia Edge
+2020-09-30 12:27:06,057 : INFO : test_e2e : Blackberry
+2020-09-30 12:27:15,798 : INFO : test_e2e : --Submitting the Form--
+2020-09-30 12:27:15,881 : INFO : test_e2e : --Success Message--: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-30 12:27:49,570 : INFO : test_formSubmission : FIRSTNAME :Karthik
+2020-09-30 12:27:49,570 : INFO : test_formSubmission : EMAIL :kk@gmail.com
+2020-09-30 12:27:52,001 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:27:52,781 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 12:27:52,781 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 12:27:52,781 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 12:27:52,781 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 12:27:53,560 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:27:53,560 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:54:14,362 : INFO : test_e2e : iphone X
+2020-09-30 12:54:14,467 : INFO : test_e2e : Samsung Note 8
+2020-09-30 12:54:14,500 : INFO : test_e2e : Nokia Edge
+2020-09-30 12:54:14,525 : INFO : test_e2e : Blackberry
+2020-09-30 12:54:21,754 : INFO : test_e2e : --Submitting the Form--
+2020-09-30 12:54:21,815 : INFO : test_e2e : --Success Message--: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-30 12:54:35,481 : INFO : test_formSubmission : FIRSTNAME :Karthik
+2020-09-30 12:54:35,481 : INFO : test_formSubmission : EMAIL :kk@gmail.com
+2020-09-30 12:54:36,329 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:54:36,747 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 12:54:36,747 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-09-30 12:54:36,747 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 12:54:36,747 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-09-30 12:54:37,351 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-09-30 12:54:37,351 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-10-04 21:32:23,372 : INFO : test_e2e : iphone X
+2020-10-04 21:32:23,550 : INFO : test_e2e : Samsung Note 8
+2020-10-04 21:32:23,572 : INFO : test_e2e : Nokia Edge
+2020-10-04 21:32:23,594 : INFO : test_e2e : Blackberry
+2020-10-04 21:32:30,352 : INFO : test_e2e : --Submitting the Form--
+2020-10-04 21:32:30,393 : INFO : test_e2e : --Success Message--: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-04 21:32:44,914 : INFO : test_formSubmission : FIRSTNAME :Karthik
+2020-10-04 21:32:44,914 : INFO : test_formSubmission : EMAIL :kk@gmail.com
+2020-10-04 21:32:45,732 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-10-04 21:32:46,131 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-10-04 21:32:46,131 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-10-04 21:32:46,134 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-10-04 21:32:46,134 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-10-04 21:32:46,821 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-10-04 21:32:46,821 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-10-05 12:20:23,123 : INFO : test_e2e : iphone X
+2020-10-05 12:20:23,660 : INFO : test_e2e : Samsung Note 8
+2020-10-05 12:20:23,754 : INFO : test_e2e : Nokia Edge
+2020-10-05 12:20:23,777 : INFO : test_e2e : Blackberry
+2020-10-05 12:20:33,659 : INFO : test_e2e : --Submitting the Form--
+2020-10-05 12:20:33,722 : INFO : test_e2e : --Success Message--: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-05 12:20:58,004 : INFO : test_formSubmission : FIRSTNAME :Karthik
+2020-10-05 12:20:58,006 : INFO : test_formSubmission : EMAIL :kk@gmail.com
+2020-10-05 12:20:59,594 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-10-05 12:21:01,206 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-10-05 12:21:01,206 : INFO : test_formSubmission : FIRSTNAME :Mellisa
+2020-10-05 12:21:01,206 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-10-05 12:21:01,206 : INFO : test_formSubmission : EMAIL :mellisa@gmail.com
+2020-10-05 12:21:03,071 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-10-05 12:21:03,071 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
